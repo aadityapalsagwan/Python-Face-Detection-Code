@@ -1,0 +1,1 @@
+"C:/Python/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml
